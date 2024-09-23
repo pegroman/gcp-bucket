@@ -1,0 +1,7 @@
+1. https://console.cloud.google.com/iam-admin/serviceaccounts
+1a. cloud storage --> administrador de almacenamiento
+2. tres puntos --> Administrar claves --> agregar clave --> json --> descargar.
+NOTA: no subir el archivo json a ningún repo!!!. Compartir de forma segura
+
+Instalación
+pip install google-cloud-storage
